@@ -1,0 +1,17 @@
+{
+  [{
+  "modListVersion": 2,
+  "modList": [{
+    "modid": "lockmod",
+    "name": "Lock Mod",
+    "description": "adds locks, locked doors, chests, blocks, and keys ",
+    "version": "",
+    "mcversion": "",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [ "Agent K9" ],
+    "credits": "Mr. Todd Burnop, Phrasz, and jess for some of the Ideas",
+    "logoFile": "/logo.png",
+    "requiredMods": [ "Forge" ]
+  }]
+}
